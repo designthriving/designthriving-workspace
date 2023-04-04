@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../designthriving"
+		},
+		{
+			"path": "../designthriving-backend"
+		},
+		{
+			"path": "../designthriving-lib"
+		}
+	],
+	"settings": {}
+}
